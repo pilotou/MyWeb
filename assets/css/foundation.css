@@ -1,0 +1,9 @@
+body {
+    background-color: #EDDDBB;
+    border:1px solid black;
+    margin: auto;
+}
+p {
+    border: 1px solid black;
+    margin:2px;
+}
